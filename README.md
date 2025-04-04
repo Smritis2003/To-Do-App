@@ -15,34 +15,9 @@
 
 [To-Do List App](https://karlavdelgadof.github.io/ToDo-list-app/dist/)
 
-## Authors
+## Author
 
-👤 **Karla Delgado**
+👤 **Smriti Saxena**
 
-- GitHub: [@karlavdelgadof](https://github.com/karlavdelgadof)
-- Twitter: [@karlavdelgadof](https://twitter.com/karlavdelgadof)
-- LinkedIn: [Karla Delgado](https://www.linkedin.com/in/karla-delgado-613a32239/)
-
-## Collaborators :handshake: :man_technologist:
-
-👤 **Say Vior**
-
--GitHub: @vitorguedesmadeira
-
-## Project Milestones
-
-- Milestone 1: List structure. :heavy_check_mark:
-- Milestone 2: Add and remove items. :heavy_check_mark:
-- Milestone 3: Interactive list. :heavy_check_mark:
-
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
-
-
-
+- GitHub: [@Smritis2003](https://github.com/Smritis2003)
+- LinkedIn: [Smriti Saxena](https://www.linkedin.com/in/smriti-saxena-b6b9b8230/)
